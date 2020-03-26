@@ -3,7 +3,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-  title: false
 include:
   - CONTRIBUTING.md
   - README.md
